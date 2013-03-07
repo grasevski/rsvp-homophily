@@ -1,0 +1,280 @@
+"PROPERTYID","FIELDNAME","PROPERTYNAME","VALUEID","VALUENAME","STATUS"
+50,"AGE_BIN","AGE BIN",320,"~20",1
+50,"AGE_BIN","AGE BIN",322,"~22",1
+50,"AGE_BIN","AGE BIN",324,"~24",1
+50,"AGE_BIN","AGE BIN",326,"~26",1
+50,"AGE_BIN","AGE BIN",328,"~28",1
+50,"AGE_BIN","AGE BIN",330,"~30",1
+50,"AGE_BIN","AGE BIN",332,"~32",1
+50,"AGE_BIN","AGE BIN",334,"~34",1
+50,"AGE_BIN","AGE BIN",336,"~36",1
+50,"AGE_BIN","AGE BIN",338,"~38",1
+50,"AGE_BIN","AGE BIN",340,"~40",1
+50,"AGE_BIN","AGE BIN",342,"~42",1
+50,"AGE_BIN","AGE BIN",344,"~44",1
+50,"AGE_BIN","AGE BIN",346,"~46",1
+50,"AGE_BIN","AGE BIN",348,"~48",1
+50,"AGE_BIN","AGE BIN",350,"~50",1
+50,"AGE_BIN","AGE BIN",352,"~52",1
+50,"AGE_BIN","AGE BIN",354,"~54",1
+50,"AGE_BIN","AGE BIN",356,"~56",1
+50,"AGE_BIN","AGE BIN",358,"~58",1
+50,"AGE_BIN","AGE BIN",360,"~60",1
+50,"AGE_BIN","AGE BIN",362,"~62",1
+50,"AGE_BIN","AGE BIN",364,"~64",1
+50,"AGE_BIN","AGE BIN",366,"~66",1
+50,"AGE_BIN","AGE BIN",368,"~68",1
+50,"AGE_BIN","AGE BIN",370,"~70",1
+50,"AGE_BIN","AGE BIN",372,"~72",1
+50,"AGE_BIN","AGE BIN",374,"~74",1
+50,"AGE_BIN","AGE BIN",376,"~76",1
+50,"AGE_BIN","AGE BIN",378,"~78",1
+50,"AGE_BIN","AGE BIN",380,"~80",1
+1,"OCC_INDUSTRY_PRID","Accounting",1,"Accounting",1
+1,"OCC_INDUSTRY_PRID","Administration",2,"Administration",1
+1,"OCC_INDUSTRY_PRID","Advertising / PR / Media",3,"Advertising / PR / Media",1
+1,"OCC_INDUSTRY_PRID","Agricultural",4,"Agricultural",1
+1,"OCC_INDUSTRY_PRID","Arts/Entertainment / Sport / Recreation",5,"Arts/Entertainment / Sport / Recreation",1
+1,"OCC_INDUSTRY_PRID","Construction",6,"Construction",1
+1,"OCC_INDUSTRY_PRID","Consulting",7,"Consulting",1
+1,"OCC_INDUSTRY_PRID","Customer Service / Call Centres",8,"Customer Service / Call Centres",1
+1,"OCC_INDUSTRY_PRID","Defence / Emergency Services",9,"Defence / Emergency Services",1
+1,"OCC_INDUSTRY_PRID","Education / Science",10,"Education / Science",1
+1,"OCC_INDUSTRY_PRID","Financial Services",11,"Financial Services",1
+1,"OCC_INDUSTRY_PRID","Government",12,"Government",1
+1,"OCC_INDUSTRY_PRID","Healthcare / Medical",13,"Healthcare / Medical",1
+1,"OCC_INDUSTRY_PRID","Hospitality / Tourism / Travel",14,"Hospitality / Tourism / Travel",1
+1,"OCC_INDUSTRY_PRID","HR/Employment / Training",15,"HR/Employment / Training",1
+1,"OCC_INDUSTRY_PRID","IT / Telecoms",16,"IT / Telecoms",1
+1,"OCC_INDUSTRY_PRID","Legal",17,"Legal",1
+1,"OCC_INDUSTRY_PRID","Manufacturing / Industrial / Engineering",18,"Manufacturing / Industrial / Engineering",1
+1,"OCC_INDUSTRY_PRID","Pharmaceutical / Biotechnology",19,"Pharmaceutical / Biotechnology",1
+1,"OCC_INDUSTRY_PRID","Property / Real Estate",20,"Property / Real Estate",1
+1,"OCC_INDUSTRY_PRID","Retail / Consumer/Personal Services",21,"Retail / Consumer/Personal Services",1
+1,"OCC_INDUSTRY_PRID","Sales / Marketing",22,"Sales / Marketing",1
+1,"OCC_INDUSTRY_PRID","Trades / Services",23,"Trades / Services",1
+1,"OCC_INDUSTRY_PRID","Volunteer / Charity / Community",24,"Volunteer / Charity / Community",1
+1,"OCC_INDUSTRY_PRID","Transport / Logistics / Warehousing",25,"Transport / Logistics / Warehousing",1
+1,"OCC_INDUSTRY_PRID","Retired",26,"Retired",1
+1,"OCC_INDUSTRY_PRID","Student",27,"Student",1
+1,"OCC_INDUSTRY_PRID","Unemployed",28,"Unemployed",1
+1,"OCC_INDUSTRY_PRID","Other",29,"Other",1
+2,"OCC_LEVEL_PRID","Business Owner",30,"Business Owner",1
+2,"OCC_LEVEL_PRID","Senior Management",31,"Senior Management",1
+2,"OCC_LEVEL_PRID","Management",32,"Management",1
+2,"OCC_LEVEL_PRID","Professional",33,"Professional",1
+2,"OCC_LEVEL_PRID","Technical",34,"Technical",1
+2,"OCC_LEVEL_PRID","Executive",35,"Executive",1
+2,"OCC_LEVEL_PRID","Admin / Clerical / Secretarial",36,"Admin / Clerical / Secretarial",1
+2,"OCC_LEVEL_PRID","Customer Service Role",37,"Customer Service Role",1
+2,"OCC_LEVEL_PRID","Tradesperson",38,"Tradesperson",1
+2,"OCC_LEVEL_PRID","Student",39,"Student",1
+2,"OCC_LEVEL_PRID","Other",40,"Other",1
+3,"HAVEPETS","No, do not like pets",136,"No, do not like pets",1
+3,"HAVEPETS","Yes, like pets but do not have any",137,"Yes, like pets but do not have any",1
+3,"HAVEPETS","Yes, have pets",138,"Yes, have pets",1
+4,"GENDER_PRID","Male",134,"Male",1
+4,"GENDER_PRID","Female",135,"Female",1
+5,"MARITAL_STATUS_PRID","Single",139,"Single",1
+5,"MARITAL_STATUS_PRID","Attached/married seeking friends only",140,"Attached/married seeking friends only",1
+5,"MARITAL_STATUS_PRID","Separated",141,"Separated",1
+5,"MARITAL_STATUS_PRID","Divorced",142,"Divorced",1
+5,"MARITAL_STATUS_PRID","Widowed",143,"Widowed",1
+6,"BODYTYPE_PRID","Slim",41,"Slim",1
+6,"BODYTYPE_PRID","Athletic",42,"Athletic",1
+6,"BODYTYPE_PRID","Average",43,"Average",1
+6,"BODYTYPE_PRID","A bit overweight",44,"A bit overweight",1
+6,"BODYTYPE_PRID","Large-ish",45,"Large-ish",1
+7,"EYECOLOR_PRID","Other",46,"Other",1
+7,"EYECOLOR_PRID","Black",47,"Black",1
+7,"EYECOLOR_PRID","Blue",48,"Blue",1
+7,"EYECOLOR_PRID","Green",49,"Green",1
+7,"EYECOLOR_PRID","Hazel",50,"Hazel",1
+7,"EYECOLOR_PRID","Brown",51,"Brown",1
+7,"EYECOLOR_PRID","Grey",52,"Grey",1
+8,"STARSIGN_PRID","Capricorn",64,"Capricorn",1
+8,"STARSIGN_PRID","Aquarius",65,"Aquarius",1
+8,"STARSIGN_PRID","Pisces",66,"Pisces",1
+8,"STARSIGN_PRID","Aries",67,"Aries",1
+8,"STARSIGN_PRID","Taurus",68,"Taurus",1
+8,"STARSIGN_PRID","Gemini",69,"Gemini",1
+8,"STARSIGN_PRID","Cancer",70,"Cancer",1
+8,"STARSIGN_PRID","Leo",71,"Leo",1
+8,"STARSIGN_PRID","Virgo",72,"Virgo",1
+8,"STARSIGN_PRID","Libra",73,"Libra",1
+8,"STARSIGN_PRID","Scorpio",74,"Scorpio",1
+8,"STARSIGN_PRID","Sagittarius",75,"Sagittarius",1
+9,"HAIRCOLOR_PRID","Other",53,"Other",1
+9,"HAIRCOLOR_PRID","Blonde",54,"Blonde",1
+9,"HAIRCOLOR_PRID","Red",55,"Red",1
+9,"HAIRCOLOR_PRID","Black",56,"Black",1
+9,"HAIRCOLOR_PRID","Light Brown",57,"Light Brown",1
+9,"HAIRCOLOR_PRID","Dark Brown",58,"Dark Brown",1
+9,"HAIRCOLOR_PRID","Grey",59,"Grey",1
+9,"HAIRCOLOR_PRID","White",60,"White",1
+9,"HAIRCOLOR_PRID","Auburn",61,"Auburn",1
+9,"HAIRCOLOR_PRID","Bald",62,"Bald",1
+10,"ETHNICBACKGROUND_PRID","North European",76,"North European",1
+10,"ETHNICBACKGROUND_PRID","South European",77,"South European",1
+10,"ETHNICBACKGROUND_PRID","East European",78,"East European",1
+10,"ETHNICBACKGROUND_PRID","Hispanic / Latino",79,"Hispanic / Latino",1
+10,"ETHNICBACKGROUND_PRID","Other Caucasian",80,"Other Caucasian",1
+10,"ETHNICBACKGROUND_PRID","Black / African",81,"Black / African",1
+10,"ETHNICBACKGROUND_PRID","Middle Eastern",82,"Middle Eastern",1
+10,"ETHNICBACKGROUND_PRID","Asian",83,"Asian",1
+10,"ETHNICBACKGROUND_PRID","Indian",84,"Indian",1
+10,"ETHNICBACKGROUND_PRID","Aboriginal / TSI",85,"Aboriginal / TSI",1
+10,"ETHNICBACKGROUND_PRID","Other Islander",86,"Other Islander",1
+10,"ETHNICBACKGROUND_PRID","Mixed Race",87,"Mixed Race",1
+10,"ETHNICBACKGROUND_PRID","Other",88,"Other",1
+12,"HAVECHILDREN_PRID","No, have no children",89,"No, have no children",1
+12,"HAVECHILDREN_PRID","Yes, have children living at home",90,"Yes, have children living at home",1
+12,"HAVECHILDREN_PRID","Yes, have children living at home sometimes",91,"Yes, have children living at home sometimes",1
+12,"HAVECHILDREN_PRID","Yes, have children who don't live at home",92,"Yes, have children who don't live at home",1
+13,"SMOKE_PRID","Don't smoke",98,"Don't smoke",1
+13,"SMOKE_PRID","Occasionally / socially",99,"Occasionally / socially",1
+13,"SMOKE_PRID","Trying to quit",100,"Trying to quit",1
+13,"SMOKE_PRID","Regularly",101,"Regularly",1
+14,"RELIGION_PRID","Catholic",105,"Catholic",1
+14,"RELIGION_PRID","Anglican",106,"Anglican",1
+14,"RELIGION_PRID","Other Christian",107,"Other Christian",1
+14,"RELIGION_PRID","Born Again Christian",108,"Born Again Christian",1
+14,"RELIGION_PRID","Jewish",109,"Jewish",1
+14,"RELIGION_PRID","Islamic",110,"Islamic",1
+14,"RELIGION_PRID","Buddhist",111,"Buddhist",1
+14,"RELIGION_PRID","Hindu",112,"Hindu",1
+14,"RELIGION_PRID","Sikh",113,"Sikh",1
+14,"RELIGION_PRID","New Age",114,"New Age",1
+14,"RELIGION_PRID","Atheist",115,"Atheist",1
+14,"RELIGION_PRID","Agnostic",116,"Agnostic",1
+14,"RELIGION_PRID","Other",117,"Other",1
+15,"WANTCHILDREN_PRID","Don't want any (more) of my own but yours are fine",209,"Don't want any (more) of my own but yours are fine",1
+15,"WANTCHILDREN_PRID","Don't want any (more) of my own or anyone else's",210,"Don't want any (more) of my own or anyone else's",1
+15,"WANTCHILDREN_PRID","Don't want any (more) of my own ask me about yours",118,"Don't want any (more) of my own ask me about yours",1
+15,"WANTCHILDREN_PRID","Undecided",119,"Undecided",1
+15,"WANTCHILDREN_PRID","Want (more) children of my own",120,"Want (more) children of my own",1
+51,"LOC_LOCUSPOINTID","LOCATION",0,"INVALID",1
+51,"LOC_LOCUSPOINTID","LOCATION",1,"Sydney - City",1
+51,"LOC_LOCUSPOINTID","LOCATION",2,"Sydney - East",1
+51,"LOC_LOCUSPOINTID","LOCATION",3,"Sydney - North",1
+51,"LOC_LOCUSPOINTID","LOCATION",4,"Sydney - South",1
+51,"LOC_LOCUSPOINTID","LOCATION",5,"Sydney - West",1
+51,"LOC_LOCUSPOINTID","LOCATION",6,"Wollongong",1
+51,"LOC_LOCUSPOINTID","LOCATION",7,"Newcastle",1
+51,"LOC_LOCUSPOINTID","LOCATION",8,"North Coast",1
+51,"LOC_LOCUSPOINTID","LOCATION",9,"Central Coast",1
+51,"LOC_LOCUSPOINTID","LOCATION",10,"South Coast",1
+51,"LOC_LOCUSPOINTID","LOCATION",11,"South - West Region (eg. Wagga Wagga)",1
+51,"LOC_LOCUSPOINTID","LOCATION",12,"North - West Region (eg. Bourke)",1
+51,"LOC_LOCUSPOINTID","LOCATION",13,"Far - West Region (eg. Broken Hill)",1
+51,"LOC_LOCUSPOINTID","LOCATION",14,"Central - West Region (eg. Bathurst)",1
+51,"LOC_LOCUSPOINTID","LOCATION",15,"ACT",1
+51,"LOC_LOCUSPOINTID","LOCATION",16,"Melbourne - City",1
+51,"LOC_LOCUSPOINTID","LOCATION",17,"Melbourne - East",1
+51,"LOC_LOCUSPOINTID","LOCATION",18,"Melbourne - West",1
+51,"LOC_LOCUSPOINTID","LOCATION",19,"Ballarat",1
+51,"LOC_LOCUSPOINTID","LOCATION",20,"Geelong",1
+51,"LOC_LOCUSPOINTID","LOCATION",21,"East Coast",1
+51,"LOC_LOCUSPOINTID","LOCATION",22,"South Coast",1
+51,"LOC_LOCUSPOINTID","LOCATION",23,"Northern District (eg. Shepparton)",1
+51,"LOC_LOCUSPOINTID","LOCATION",24,"Western District (eg. Horsham)",1
+51,"LOC_LOCUSPOINTID","LOCATION",25,"Brisbane",1
+51,"LOC_LOCUSPOINTID","LOCATION",26,"Gold Coast",1
+51,"LOC_LOCUSPOINTID","LOCATION",27,"Sunshine Coast",1
+51,"LOC_LOCUSPOINTID","LOCATION",28,"Central Coast (eg. Rockhampton)",1
+51,"LOC_LOCUSPOINTID","LOCATION",29,"Far North Queensland (eg. Cairns)",1
+51,"LOC_LOCUSPOINTID","LOCATION",30,"Central Queensland (eg. Mount Isa)",1
+51,"LOC_LOCUSPOINTID","LOCATION",31,"Darling Downs (eg. Toowoomba)",1
+51,"LOC_LOCUSPOINTID","LOCATION",32,"Darwin",1
+51,"LOC_LOCUSPOINTID","LOCATION",33,"Katherine",1
+51,"LOC_LOCUSPOINTID","LOCATION",34,"Alice Springs",1
+51,"LOC_LOCUSPOINTID","LOCATION",35,"Adelaide",1
+51,"LOC_LOCUSPOINTID","LOCATION",36,"Eyre Peninsula (eg. Port Augusta)",1
+51,"LOC_LOCUSPOINTID","LOCATION",37,"Fleurieu Peninsula",1
+51,"LOC_LOCUSPOINTID","LOCATION",38,"Central Region (eg. Coober Pedy)",1
+51,"LOC_LOCUSPOINTID","LOCATION",39,"Hobart",1
+51,"LOC_LOCUSPOINTID","LOCATION",40,"Devonport",1
+51,"LOC_LOCUSPOINTID","LOCATION",41,"Launceston",1
+51,"LOC_LOCUSPOINTID","LOCATION",42,"Central Region (eg. Hamilton)",1
+51,"LOC_LOCUSPOINTID","LOCATION",43,"Southern Region (eg. Southport)",1
+51,"LOC_LOCUSPOINTID","LOCATION",44,"Western Region (eg. Rosebery)",1
+51,"LOC_LOCUSPOINTID","LOCATION",45,"Eastern Region (eg. Derby)",1
+51,"LOC_LOCUSPOINTID","LOCATION",46,"Perth",1
+51,"LOC_LOCUSPOINTID","LOCATION",47,"Bunbury Region (eg. Bunbury)",1
+51,"LOC_LOCUSPOINTID","LOCATION",48,"Wheat Belt (eg. Geraldton)",1
+51,"LOC_LOCUSPOINTID","LOCATION",49,"North - West Region (eg. Broome)",1
+51,"LOC_LOCUSPOINTID","LOCATION",50,"South - West Region (eg. Albany)",1
+51,"LOC_LOCUSPOINTID","LOCATION",57094,"South Central (eg. Goondiwindi)",1
+51,"LOC_LOCUSPOINTID","LOCATION",57095,"Goldfields (eg.  Kalgoorlie)",1
+51,"LOC_LOCUSPOINTID","LOCATION",57096,"South East (eg.  Mount Gambier)",1
+51,"LOC_LOCUSPOINTID","LOCATION",57097,"Yorke Peninsula",1
+17,"POLITICS_PRID","Right wing",126,"Right wing",1
+17,"POLITICS_PRID","Left wing",127,"Left wing",1
+17,"POLITICS_PRID","Swinging voter",128,"Swinging voter",1
+17,"POLITICS_PRID","No strong beliefs",129,"No strong beliefs",1
+50,"AGE_BIN","AGE BIN",320,"~20",1
+50,"AGE_BIN","AGE BIN",322,"~22",1
+50,"AGE_BIN","AGE BIN",324,"~24",1
+50,"AGE_BIN","AGE BIN",326,"~26",1
+50,"AGE_BIN","AGE BIN",328,"~28",1
+50,"AGE_BIN","AGE BIN",330,"~30",1
+50,"AGE_BIN","AGE BIN",332,"~32",1
+50,"AGE_BIN","AGE BIN",334,"~34",1
+50,"AGE_BIN","AGE BIN",336,"~36",1
+50,"AGE_BIN","AGE BIN",338,"~38",1
+50,"AGE_BIN","AGE BIN",340,"~40",1
+50,"AGE_BIN","AGE BIN",342,"~42",1
+50,"AGE_BIN","AGE BIN",344,"~44",1
+50,"AGE_BIN","AGE BIN",346,"~46",1
+50,"AGE_BIN","AGE BIN",348,"~48",1
+50,"AGE_BIN","AGE BIN",350,"~50",1
+50,"AGE_BIN","AGE BIN",352,"~52",1
+50,"AGE_BIN","AGE BIN",354,"~54",1
+50,"AGE_BIN","AGE BIN",356,"~56",1
+50,"AGE_BIN","AGE BIN",358,"~58",1
+50,"AGE_BIN","AGE BIN",360,"~60",1
+50,"AGE_BIN","AGE BIN",362,"~62",1
+50,"AGE_BIN","AGE BIN",364,"~64",1
+50,"AGE_BIN","AGE BIN",366,"~66",1
+50,"AGE_BIN","AGE BIN",368,"~68",1
+50,"AGE_BIN","AGE BIN",370,"~70",1
+50,"AGE_BIN","AGE BIN",372,"~72",1
+50,"AGE_BIN","AGE BIN",374,"~74",1
+50,"AGE_BIN","AGE BIN",376,"~76",1
+50,"AGE_BIN","AGE BIN",378,"~78",1
+50,"AGE_BIN","AGE BIN",380,"~80",1
+16,"EDUCATION_PRID","High School",121,"High School",1
+16,"EDUCATION_PRID","Some college",122,"Some college",1
+16,"EDUCATION_PRID","Diploma",123,"Diploma",1
+16,"EDUCATION_PRID","Degree",124,"Degree",1
+16,"EDUCATION_PRID","Post Graduate",125,"Post Graduate",1
+19,"HEIGHT_PRID","under 5'0""/152 cm",144,"under 5'0""/152 cm",1
+19,"HEIGHT_PRID","5'0""/152 cm",145,"5'0""/152 cm",1
+19,"HEIGHT_PRID","5'1""/154 cm",146,"5'1""/154 cm",1
+19,"HEIGHT_PRID","5'2""/157 cm",147,"5'2""/157 cm",1
+19,"HEIGHT_PRID","5'3""/160 cm",148,"5'3""/160 cm",1
+19,"HEIGHT_PRID","5'4""/162 cm",149,"5'4""/162 cm",1
+19,"HEIGHT_PRID","5'5""/165 cm",150,"5'5""/165 cm",1
+19,"HEIGHT_PRID","5'6""/167 cm",151,"5'6""/167 cm",1
+19,"HEIGHT_PRID","5'7""/170 cm",152,"5'7""/170 cm",1
+19,"HEIGHT_PRID","5'8""/172 cm",153,"5'8""/172 cm",1
+19,"HEIGHT_PRID","5'9""/175 cm",154,"5'9""/175 cm",1
+19,"HEIGHT_PRID","5'10""/177 cm",155,"5'10""/177 cm",1
+19,"HEIGHT_PRID","5'11""/180 cm",156,"5'11""/180 cm",1
+19,"HEIGHT_PRID","6'0""/183 cm",157,"6'0""/183 cm",1
+19,"HEIGHT_PRID","6'1""/185 cm",158,"6'1""/185 cm",1
+19,"HEIGHT_PRID","6'2""/188 cm",159,"6'2""/188 cm",1
+19,"HEIGHT_PRID","6'3""/190 cm",160,"6'3""/190 cm",1
+19,"HEIGHT_PRID","over 6'3""/190 cm",161,"over 6'3""/190 cm",1
+18,"DIET_PRID","No special diet",130,"No special diet",1
+18,"DIET_PRID","Vegetarian",131,"Vegetarian",1
+18,"DIET_PRID","Vegan",132,"Vegan",1
+18,"DIET_PRID","Other special diet",133,"Other special diet",1
+20,"PERSONALITY_PRID","Very Private",93,"Very Private",1
+20,"PERSONALITY_PRID","Private",94,"Private",1
+20,"PERSONALITY_PRID","Average",95,"Average",1
+20,"PERSONALITY_PRID","Social",96,"Social",1
+20,"PERSONALITY_PRID","Very Social",97,"Very Social",1
+22,"DRINK_PRID","Non-drinker",102,"Non-drinker",1
+22,"DRINK_PRID","Occasionally / socially",103,"Occasionally / socially",1
+22,"DRINK_PRID","Often",104,"Often",1
